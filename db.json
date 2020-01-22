@@ -36,29 +36,17 @@
     "price": 800,
     "image": "2.png"
   },
+],
+todos: [
   {
-    "name": "Laptop",
-    "description": "Laptop is most productive development tool",
-    "price": 2000,
-    "image": "3.png"
+    "id": "1",
+    "subject": "Office",
+    "description": "Complete flutter demo"
   },
   {
-    "name": "Tablet",
-    "description": "Tablet is the most useful device ever for meeting",
-    "price": 1500,
-    "image": "1.png"
-  },
-  {
-    "name": "Pendrive",
-    "description": "Pendrive is useful storage medium",
-    "price": 100,
-    "image": "2.png"
-  },
-  {
-    "name": "Floppy Drive",
-    "description": "Floppy drive is useful rescue storage medium",
-    "price": 20,
-    "image": "3.png"
+    "id": "2",
+    "subject": "Self study",
+    "description": "Xamarin revision"
   }
-]
+  ]
 }
