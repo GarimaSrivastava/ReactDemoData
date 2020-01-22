@@ -36,17 +36,5 @@
     "price": 800,
     "image": "2.png"
   },
-],
-"todos": [
-  {
-    "id": "1",
-    "subject": "Office",
-    "description": "Complete flutter demo"
-  },
-  {
-    "id": "2",
-    "subject": "Self study",
-    "description": "Xamarin revision"
-  }
-  ]
+]
 }
